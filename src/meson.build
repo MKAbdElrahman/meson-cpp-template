@@ -1,0 +1,1 @@
+counting_lib = library('counting','counting.cpp')
